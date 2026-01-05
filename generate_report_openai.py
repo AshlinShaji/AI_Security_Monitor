@@ -10,7 +10,7 @@ print("🎯 STEP 10: Generating Report with OpenAI")
 print("="*50)
 
 # ⭐ GET YOUR FREE API KEY FROM: https://platform.openai.com
-API_KEY = "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"  # sk-proj-...
+API_KEY = ""  # sk-proj-...
 
 if API_KEY == "YOUR_OPENAI_API_KEY_HERE":
     print("❌ ERROR: You need to add your OpenAI API key!")
